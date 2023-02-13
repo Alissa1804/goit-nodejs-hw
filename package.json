@@ -1,0 +1,21 @@
+{
+  "name": "goit-nodejs-hw",
+  "version": "1.0.0",
+  "author": "Alissa W",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alissa1804/goit-nodejs-hw"},
+  "scripts": {
+    "start": "node ./index.js",
+    "start:dev": "nodemon ./index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "nanoid": "^3.0.0"
+  }
+}
